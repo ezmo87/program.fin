@@ -1,1 +1,1 @@
-choco install winrar -y
+choco install winrar 7zip.install -y
