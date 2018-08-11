@@ -1,1 +1,1 @@
-choco install adobereader winrar -y
+choco install winrar -y
